@@ -1,4 +1,4 @@
-# Pytorch_Model_Quantization
+# Pytorch Model Quantization
 Pose Estimation uses Pytorch for static quantization, saving, and loading of models
 
 # Get data and model
